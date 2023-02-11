@@ -50,3 +50,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ktk04&theme=dark&background=000000)](https://git.io/streak-stats)
 <br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktk04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/ktk04/ktk04/blob/output/github-contribution-grid-snake.gif)
