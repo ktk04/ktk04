@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="linkedin.com/in/kevin-thomas-koshy">
+  <a href="https://www.linkedin.com/in/kevin-thomas-koshy-88b9361b9">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/ktk04.10/">
@@ -10,7 +10,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ktk04&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
   Hello and Welcome
@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I mess around with Photoshop and play games.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KTK-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/kevin-thomas-koshy)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-KTK-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/kevin-thomas-koshy-88b9361b9)
 
 ---
 
